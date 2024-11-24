@@ -1,22 +1,29 @@
-# My Alarm App with Jetpack Compose
-
-An alarm application built using **Jetpack Compose**. This app allows users to set alarms, receive notifications, and play an alarm sound when the alarm triggers.
-
-## Features
-
-- Modern **Jetpack Compose UI**.
-- Set alarms for specific times.
-- Display a list of active alarms.
-- Trigger an alarm with:
-  - **Notification**
-  - **Sound playback**
-- Support for exact alarms on Android 12 and above.
-- Handles Doze Mode and Battery Optimization.
-
----
-
-## Screenshots
-
-![image](https://github.com/user-attachments/assets/e3589f1e-074a-4615-936c-1eb6e311b193)
 
 
+# 🚨 Alarm Clone with Jetpack Compose ⏰
+
+This is a simple alarm app clone built using **Jetpack Compose** and **Kotlin**. It allows users to set, view, and delete alarms on their Android devices. The app utilizes the latest features in Android development, including the **Material 3** components and state management in **Compose**.
+
+## 🚀 Features
+
+- **Set Alarms** ⏲️: Users can set alarms by choosing a specific time using a time picker.
+- **View Active Alarms** 📋: The app shows a list of all active alarms.
+- **Delete Alarms** 🗑️: Users can delete alarms when they are no longer needed.
+- **Modern UI** ✨: The app is built using **Jetpack Compose**, providing a modern, clean UI with **Material Design** principles.
+
+## 📸 Screenshots
+
+![Uploading Screenshot_20241124_185901.png…]()
+
+
+## 🛠️ Requirements
+
+- **Android Studio** with support for Jetpack Compose (Android Studio Electric Eel or higher).
+- **Minimum SDK**: Android 5.0 (API Level 21) or higher.
+
+## 💻 Installation
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/Amakrane-Mohamed/Alarm-clone.git
